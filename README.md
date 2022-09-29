@@ -1,2 +1,2 @@
 # CSE110_Lab1
-Steven Liu's User Page
+My favorite programming language is Java.
