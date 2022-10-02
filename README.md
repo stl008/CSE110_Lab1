@@ -1,2 +1,2 @@
 # CSE110_Lab1
-My favorite programming language is Java.
+https://github.com/stl008/CSE110_Lab1/blob/main/index.md
